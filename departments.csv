@@ -1,0 +1,13 @@
+department_id,department_name,business_unit,region
+D001,Engineering,Product & Technology,NA
+D002,Data & Analytics,Product & Technology,NA
+D003,Product,Product & Technology,EMEA
+D004,Design,Product & Technology,EMEA
+D005,Sales,Revenue,NA
+D006,Customer Success,Revenue,EMEA
+D007,Marketing,Revenue,APAC
+D008,Finance,Corporate,NA
+D009,People Operations,Corporate,EMEA
+D010,Legal & Compliance,Corporate,NA
+D011,Supply Chain,Operations,APAC
+D012,Business Operations,Operations,LATAM

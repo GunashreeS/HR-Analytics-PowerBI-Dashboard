@@ -1,0 +1,49 @@
+role_id,role_title,job_family,job_level,salary_band_min,salary_band_max
+R0101,Analytics Associate,analytics,associate,55000.00,78000.00
+R0102,Analytics Specialist,analytics,specialist,72000.00,105000.00
+R0103,Analytics Senior Specialist,analytics,senior,96000.00,142000.00
+R0104,Analytics Lead,analytics,lead,128000.00,188000.00
+R0201,Software Engineering Associate,engineering,associate,55000.00,78000.00
+R0202,Software Engineering Specialist,engineering,specialist,72000.00,105000.00
+R0203,Software Engineering Senior Specialist,engineering,senior,96000.00,142000.00
+R0204,Software Engineering Lead,engineering,lead,128000.00,188000.00
+R0301,Product Management Associate,product,associate,55000.00,78000.00
+R0302,Product Management Specialist,product,specialist,72000.00,105000.00
+R0303,Product Management Senior Specialist,product,senior,96000.00,142000.00
+R0304,Product Management Lead,product,lead,128000.00,188000.00
+R0401,Product Design Associate,design,associate,55000.00,78000.00
+R0402,Product Design Specialist,design,specialist,72000.00,105000.00
+R0403,Product Design Senior Specialist,design,senior,96000.00,142000.00
+R0404,Product Design Lead,design,lead,128000.00,188000.00
+R0501,Account Associate,sales,associate,55000.00,78000.00
+R0502,Account Specialist,sales,specialist,72000.00,105000.00
+R0503,Account Senior Specialist,sales,senior,96000.00,142000.00
+R0504,Account Lead,sales,lead,128000.00,188000.00
+R0601,Customer Success Associate,customer_success,associate,55000.00,78000.00
+R0602,Customer Success Specialist,customer_success,specialist,72000.00,105000.00
+R0603,Customer Success Senior Specialist,customer_success,senior,96000.00,142000.00
+R0604,Customer Success Lead,customer_success,lead,128000.00,188000.00
+R0701,Growth Marketing Associate,marketing,associate,55000.00,78000.00
+R0702,Growth Marketing Specialist,marketing,specialist,72000.00,105000.00
+R0703,Growth Marketing Senior Specialist,marketing,senior,96000.00,142000.00
+R0704,Growth Marketing Lead,marketing,lead,128000.00,188000.00
+R0801,Financial Planning Associate,finance,associate,55000.00,78000.00
+R0802,Financial Planning Specialist,finance,specialist,72000.00,105000.00
+R0803,Financial Planning Senior Specialist,finance,senior,96000.00,142000.00
+R0804,Financial Planning Lead,finance,lead,128000.00,188000.00
+R0901,People Operations Associate,people,associate,55000.00,78000.00
+R0902,People Operations Specialist,people,specialist,72000.00,105000.00
+R0903,People Operations Senior Specialist,people,senior,96000.00,142000.00
+R0904,People Operations Lead,people,lead,128000.00,188000.00
+R1001,Legal & Compliance Associate,legal,associate,55000.00,78000.00
+R1002,Legal & Compliance Specialist,legal,specialist,72000.00,105000.00
+R1003,Legal & Compliance Senior Specialist,legal,senior,96000.00,142000.00
+R1004,Legal & Compliance Lead,legal,lead,128000.00,188000.00
+R1101,Supply Chain Associate,supply_chain,associate,55000.00,78000.00
+R1102,Supply Chain Specialist,supply_chain,specialist,72000.00,105000.00
+R1103,Supply Chain Senior Specialist,supply_chain,senior,96000.00,142000.00
+R1104,Supply Chain Lead,supply_chain,lead,128000.00,188000.00
+R1201,Operations Associate,operations,associate,55000.00,78000.00
+R1202,Operations Specialist,operations,specialist,72000.00,105000.00
+R1203,Operations Senior Specialist,operations,senior,96000.00,142000.00
+R1204,Operations Lead,operations,lead,128000.00,188000.00
